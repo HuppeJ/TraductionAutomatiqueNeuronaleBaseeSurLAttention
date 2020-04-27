@@ -1,4 +1,4 @@
-# Effective Approaches to Attention-based Neural Machine Tranlation
+# Effective Approaches to Attention-based Neural Machine Translation
 
 L'objectif de ce travail consiste à explorer les résultats obtenus dans l'article [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025) et de reproduire certain des ces résultats. 
 
