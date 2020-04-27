@@ -1,0 +1,101 @@
+,id,src,result,reference_str,sentence_length,BLEUscore
+0,0,tom is not here .,tom n est pas ici . <end>,tom n est pas ici .,5,1.0
+1,1,it s an old picture .,c est une vieille passagere . <end>,c est une vieille image .,6,0.537284965911771
+2,2,this is your fate .,c est votre destinee . <end>,c est votre sort .,5,0.28574404296988
+3,3,let s have sushi .,prenons les amour ! <end>,prenons des sushi .,5,0.08034284189446518
+4,4,where did you go ?,ou vous etes vous rendue ? <end>,ou es tu alle ?,5,0.048549177170732344
+5,5,how s your morning been ?,comment ta matinee est elle propre ? <end>,comment votre matinee s est elle passee ?,6,0.07614310991217832
+6,6,he arrived at midnight .,il est arrive au japon . <end>,il est arrive a minuit .,5,0.21711852081087685
+7,7,she kicked him .,elle lui a donne un coup de pied . <end>,elle lui donna un coup de pied .,4,0.5133450480401704
+8,8,i want to go to boston .,je veux aller a boston . <end>,je veux aller a boston .,7,1.0
+9,9,i spilled the milk .,j ai renverse le lait . <end>,j ai renverse le lait .,5,1.0
+10,10,i am looking at that .,je touche a la main . <end>,je regarde ca .,6,0.048549177170732344
+11,11,she suddenly kissed me .,elle m a soudainement embrasse . <end>,elle m a soudainement embrassee .,5,0.537284965911771
+12,12,he kept his word .,il a tenu parole . <end>,il tint parole .,5,0.12574334296829354
+13,13,i told him what to do .,je lui ai dit que ca peut faire . <end>,je lui ai dit quoi faire .,7,0.3549481056010053
+14,14,come and get it .,viens le chercher . <end>,viens la chercher .,5,0.1880301546543197
+15,15,how absurd !,comme c est excitant ! <end>,quelle absurdite !,3,0.05372849659117709
+16,16,i want a closer look .,je veux un morceau de plus en plus rapide . <end>,je veux regarder de plus pres .,6,0.06674094719041482
+17,17,watch out for that man .,occupe toi de cet homme la . <end>,guette cet homme la .,6,0.41113361690051975
+18,18,everyone changes .,tout le monde change . <end>,tout le monde change .,3,1.0
+19,19,let s eat out tonight .,allons manger ceci . <end>,"ce soir , mangeons dehors .",6,0.04873039689743777
+20,20,keep driving .,continue a rouler ! <end>,roulez !,3,0.08034284189446518
+21,21,i should go .,je devrais y aller . <end>,je devrais partir .,4,0.12574334296829354
+22,22,they re downstairs .,ils sont en dessous . <end>,ils sont en bas .,4,0.28574404296988
+23,23,i d like you to drive .,j aimerais que tu conduises . <end>,je voudrais que ce soit toi qui conduises .,7,0.05795053470733952
+24,24,i have a plan .,j ai un plan . <end>,je dispose d un plan .,5,0.21771262023986562
+25,25,"pass the sugar , please .","ferme la tete , voulez vous ! <end>",passe moi le sucre s il te plait .,6,0.0
+26,26,where were all of you ?,ou etiez vous toutes ? <end>,ou etiez vous tous ?,6,0.28574404296988
+27,27,he s good .,il est bon . <end>,il est bon .,4,1.0
+28,28,i really love my work .,j aime vraiment mon travail . <end>,j adore vraiment mon travail .,6,0.537284965911771
+29,29,she s busy .,elle est occupee . <end>,elle est occupee .,4,1.0
+30,30,you are stupid .,tu es idiote . <end>,tu es stupide .,4,0.1880301546543197
+31,31,i think it s too risky .,je pense que c est trop petit . <end>,je pense que c est trop risque .,7,0.7071067811865475
+32,32,who phoned ?,qui a vole la tete ? <end>,qui est ce qui a telephone ?,3,0.0808764862779457
+33,33,i m fine . how about you ?,"je vais bien , et toi ? <end>","je vais bien , et vous ?",8,0.6434588841607617
+34,34,do you trust anyone ?,vous fiez vous a quiconque ? <end>,te fies tu a quiconque ?,5,0.20205155046766235
+35,35,he will join us later .,il nous parlerai plus fort . <end>,il nous rejoindra plus tard .,6,0.10266900960803409
+36,36,the cat ate the mouse .,le chat mangea la souris . <end>,le chat a mange la souris .,6,0.21506254256566312
+37,37,the moon is already out .,la lune est deja a tom . <end>,la lune est deja visible .,6,0.4347208719449914
+38,38,i saw you .,je vous ai vue . <end>,je t ai vue .,4,0.28574404296988
+39,39,so what s your problem ?,donc quel est ton probleme ? <end>,alors quel est ton probleme ?,6,0.7598356856515925
+40,40,i missed you last night .,je vous ai manque la vie hier . <end>,tu m as manque la nuit derniere .,6,0.06500593260343691
+41,41,please be careful .,"soyez prudents , je vous prie . <end>","s il vous plait , soyez prudent !",4,0.037684991644924185
+42,42,the holidays are coming .,les enfants sont en train de mourir . <end>,les fetes se rapprochent .,5,0.03303164318013808
+43,43,that was not necessary .,ca n a pas ete necessaire . <end>,ce n etait pas necessaire .,5,0.08307018474412793
+44,44,i d like to rent a car .,"j aimerais louer une voiture , s il vous plait . <end>",j aimerais louer une voiture .,8,0.3672056269893592
+45,45,i saw you cooking .,je vous ai vue cuisiner . <end>,je vous ai vu cuisiner .,5,0.25406637407730737
+46,46,can we go back home ?,pouvons nous rentrer a la maison ? <end>,on peut rentrer a la maison ?,6,0.6147881529512643
+47,47,someone came .,quelqu un intervint . <end>,quelqu un est venu .,3,0.14643803168582153
+48,48,how can it be done ?,de quel fait peut on le faire ? <end>,de quelle maniere peut on le faire ?,6,0.5410822690539396
+49,49,i ve done everything .,j ai tout fait . <end>,j ai tout fait .,5,1.0
+50,50,they basked in the sun .,ils ont pris un bain de soleil . <end>,ils se sont dores au soleil .,6,0.06500593260343691
+51,51,you look nervous .,tu as l air nerveuse . <end>,vous avez l air nerveuse .,4,0.5081327481546147
+52,52,it s instinct .,c est verrouille . <end>,c est l instinct .,4,0.14643803168582153
+53,53,tom is mowing the lawn .,tom tond la pelouse . <end>,tom est en train de tondre la pelouse .,6,0.12839307483032303
+54,54,they all looked happy .,ils avaient tous l air contentes . <end>,ils avaient l air tous satisfaits .,5,0.10932651139290935
+55,55,are you ready ?,etes vous prets ? <end>,es tu pret ?,4,0.08034284189446518
+56,56,i like the way you sing .,j aime votre style . <end>,j aime ta maniere de chanter .,7,0.08428828344718171
+57,57,where should we go ?,ou devrions nous aller ? <end>,ou devrions nous nous rendre ?,5,0.23394743548827707
+58,58,tom is bald .,tom est chauve . <end>,tom est chauve .,4,1.0
+59,59,are you happy right now ?,es tu heureuse en ce moment ? <end>,etes vous heureuses en ce moment ?,6,0.41113361690051975
+60,60,no problem at all !,pas de probleme ! <end>,aucun probleme !,5,0.16990442448471224
+61,61,put the rifle down .,pose le fusil . <end>,posez le fusil .,5,0.3976353643835253
+62,62,what do you want now ?,que voulez vous maintenant ? <end>,que veux tu maintenant ?,6,0.12574334296829354
+63,63,are you ready to do that ?,es tu pret a faire ca ? <end>,etes vous pret a faire cela ?,7,0.17567205239427922
+64,64,tom borrowed my car .,tom a emprunte ma voiture . <end>,tom a emprunte ma voiture .,5,1.0
+65,65,there was nobody there .,personne ne se trouvait la . <end>,"la , il n y avait personne .",5,0.03849815007763549
+66,66,you haven t aged a day .,tu n es pas un journee . <end>,tu n a pas pris une ride .,7,0.07201170728284921
+67,67,i live in an apartment .,j habite en appartement . <end>,j habite dans un appartement .,6,0.1315583108973614
+68,68,there s no food .,il n y a pas de nourriture . <end>,il n y a aucune nourriture .,5,0.4111336169005197
+69,69,they re not coming back .,ils ne vont pas revenir . <end>,elles ne vont pas revenir .,6,0.7598356856515925
+70,70,he has no hat on .,il est tete nue . <end>,il est decouvert .,6,0.12574334296829354
+71,71,the only way is up .,enchantee . <end>,le seul chemin est vers le haut .,6,0.007444903200446295
+72,72,is he breathing ?,est il en train de manger ? <end>,respire t il ?,4,0.039281465090051315
+73,73,did you get the flowers ?,as tu recu les fleurs ? <end>,as tu recu les fleurs ?,6,1.0
+74,74,i m not your teacher .,je ne suis pas ton instituteur . <end>,je ne suis pas ton professeur .,6,0.6434588841607617
+75,75,i wish you d talk to me .,j aimerais que tu me parles . <end>,j aimerais que vous me parliez .,8,0.18575057999133598
+76,76,"take your seats , please .","prenez votre mouvement de tete , s il te plait . <end>","prenez place , je vous prie !",6,0.022416933501922302
+77,77,don t forget who you are .,n oubliez pas qui tu es . <end>,n oubliez pas qui vous etes .,7,0.4347208719449914
+78,78,a rabbit has long ears .,un garde une annee a attendu . <end>,les lapins ont de grandes oreilles .,6,0.033031643180138064
+79,79,this is my assistant .,c est mon assistante . <end>,voici mon assistant .,5,0.06389431042462725
+80,80,you re no singer .,tu n es pas chanteuse . <end>,tu n es pas chanteur .,5,0.537284965911771
+81,81,she s at the hotel now .,elle est a la maison a l hotel . <end>,elle est maintenant a l hotel .,7,0.3549481056010053
+82,82,what s the plan ?,quel est le plan ? <end>,c est quoi le plan ?,5,0.23394743548827707
+83,83,i ll be going .,j irai faire . <end>,j irai .,5,0.1880301546543197
+84,84,you re sick !,tu es malade ! <end>,vous etes malade !,4,0.16990442448471224
+85,85,tom was shot in the leg .,tom s est fait tirer dans la jambe . <end>,tom a recu une balle dans la jambe .,7,0.3155984539112945
+86,86,i have no religion .,je n ai pas de chance . <end>,je n ai aucune religion .,5,0.17567205239427922
+87,87,i hope it helps .,j espere que cela aide . <end>,j espere que c est utile .,5,0.1837868600016897
+88,88,you ll change your mind .,tu ferais ca comme quelqu un . <end>,tu changeras d avis .,6,0.039281465090051315
+89,89,you re being paranoid .,tu es paranoiaque . <end>,vous etes paranoiaque .,5,0.16990442448471224
+90,90,i m a good guy .,je suis un mec bien . <end>,je suis un mec bien .,6,1.0
+91,91,why are you mad at me ?,pourquoi es tu fachee contre moi ? <end>,pourquoi etes vous en colere contre moi ?,7,0.15228621982435664
+92,92,can i leave a message ?,puis je prendre un message ? <end>,puis je laisser un message ?,6,0.25406637407730737
+93,93,she has many dogs .,elle a de nombreux chiens . <end>,elle a beaucoup de chiens .,5,0.12909944487358058
+94,94,think positive .,pense positivement . <end>,pensez positivement .,3,0.24028114141347542
+95,95,i m not quite ready yet .,je ne suis pas encore tout a fait pret . <end>,je ne suis pas encore tout a fait prete .,7,0.7825422900366437
+96,96,it s a waste of time .,il fait un peu de temps . <end>,c est une perte de temps .,7,0.16348126556655487
+97,97,the man must be insane .,l homme doit etre dement . <end>,l homme doit etre fou .,6,0.537284965911771
+98,98,can you hurry up ?,peux tu te depecher ? <end>,peux tu te depecher ?,5,1.0
+99,99,i ll send flowers .,j ai horreur des fleurs . <end>,j enverrai des fleurs .,5,0.21711852081087685

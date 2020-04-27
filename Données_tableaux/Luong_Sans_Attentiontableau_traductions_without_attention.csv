@@ -1,0 +1,41 @@
+#,source,traduction,référence,# de mots,BLEU score
+1,tom is not here .,tom n est pas ici . <end>,tom n est pas ici .,5,100%
+2,it s an old picture .,c est un vieux tableau . <end>,c est une vieille image .,6,10%
+3,this is your fate .,c est votre destinee . <end>,c est votre sort .,5,29%
+4,let s have sushi .,avons y experience . <end>,prenons des sushi .,5,8%
+5,where did you go ?,ou vous etes vous rendu ? <end>,ou es tu alle ?,5,5%
+6,how s your morning been ?,comment s est passee votre matinee ? <end>,comment votre matinee s est elle passee ?,6,10%
+7,he arrived at midnight .,il est parti en amerique . <end>,il est arrive a minuit .,5,10%
+8,she kicked him .,elle lui a donne un coup de pied . <end>,elle lui donna un coup de pied .,4,51%
+9,i want to go to boston .,je veux aller a boston . <end>,je veux aller a boston .,7,100%
+10,i spilled the milk .,j ai crochete la porte . <end>,j ai renverse le lait .,5,10%
+11,i am looking at that .,je suis en train de faire ca . <end>,je regarde ca .,6,7%
+12,she suddenly kissed me .,elle m a soudainement embrasse . <end>,elle m a soudainement embrassee .,5,54%
+13,he kept his word .,il a tenu parole . <end>,il tint parole .,5,13%
+14,i told him what to do .,je lui ai dit quoi faire . <end>,je lui ai dit quoi faire .,7,100%
+15,come and get it .,venez la chercher . <end>,viens la chercher .,5,40%
+16,how absurd !,c est affreux ! <end>,quelle absurdite !,3,8%
+17,i want a closer look .,je veux qu on me rende confiance en vous . <end>,je veux regarder de plus pres .,6,5%
+18,watch out for that man .,cherche cet homme la . <end>,guette cet homme la .,6,67%
+19,everyone changes .,tout le monde ment . <end>,tout le monde change .,3,29%
+20,let s eat out tonight .,allons manger ce soir . <end>,"ce soir , mangeons dehors .",6,10%
+21,keep driving .,continue a rouler ! <end>,roulez !,3,8%
+22,i should go .,je devrais y aller . <end>,je devrais partir .,4,13%
+23,they re downstairs .,ils sont en dessous . <end>,ils sont en bas .,4,29%
+24,i d like you to drive .,j aimerais que tu conduises . <end>,je voudrais que ce soit toi qui conduises .,7,6%
+25,i ve done everything .,j ai tout fait . <end>,j ai tout fait .,5,100%
+26,they basked in the sun .,ils ont pris un bain de soleil . <end>,ils se sont dores au soleil .,6,7%
+27,you look nervous .,vous avez l air nerveuses . <end>,vous avez l air nerveuse .,4,54%
+28,it s instinct .,c est totalement . <end>,c est l instinct .,4,15%
+29,tom is mowing the lawn .,tom tond la pelouse . <end>,tom est en train de tondre la pelouse .,6,13%
+30,they all looked happy .,ils avaient l air tous contents . <end>,ils avaient l air tous satisfaits .,5,64%
+31,are you ready ?,etes vous prete ? <end>,es tu pret ?,4,8%
+32,i like the way you sing .,j aime ta maniere de parler . <end>,j aime ta maniere de chanter .,7,64%
+33,where should we go ?,ou devrions nous aller ? <end>,ou devrions nous nous rendre ?,5,23%
+34,tom is bald .,tom est obstine . <end>,tom est chauve .,4,19%
+35,are you happy right now ?,etes vous heureuse en ce moment ? <end>,etes vous heureuses en ce moment ?,6,49%
+36,no problem at all !,pas de probleme ! <end>,aucun probleme !,5,17%
+37,put the rifle down .,pose le fusil . <end>,posez le fusil .,5,40%
+38,what do you want now ?,que voulez vous maintenant ? <end>,que veux tu maintenant ?,6,13%
+39,are you ready to do that ?,etes vous prets a faire cela ? <end>,etes vous pret a faire cela ?,7,49%
+40,tom borrowed my car .,tom a rase sa vie . <end>,tom a emprunte ma voiture .,5,10%

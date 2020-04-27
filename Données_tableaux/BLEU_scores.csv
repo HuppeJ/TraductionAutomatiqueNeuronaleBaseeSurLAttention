@@ -1,0 +1,4 @@
+Configuration,BLEU
+Sans Attention,30.17%
+Attention Local-p,31.36%
+Attention Globale,33.71%
