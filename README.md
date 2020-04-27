@@ -5,7 +5,7 @@ L'objectif de ce travail consiste à explorer les résultats obtenus dans l'arti
 Certaines parties de ce notebook sont basées sur le tutoriel [Neural machine translation with attention](https://www.tensorflow.org/tutorials/text/nmt_with_attention).
 
 
-Ce notebook détail les implémentations des modèles utilisés pour la traduction de phrase d'anglais à français. Le dataset utilisé pour l'entraînement et l'évaluation de nos modèles provient du site http://www.manythings.org/anki/.
+Ce notebook détaille les implémentations des modèles utilisés pour la traduction de phrase d'anglais à français. Le dataset utilisé pour l'entraînement et l'évaluation de nos modèles provient du site http://www.manythings.org/anki/.
 
 
 Travail présenté par : 
