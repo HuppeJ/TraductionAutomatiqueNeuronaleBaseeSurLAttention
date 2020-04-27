@@ -14,6 +14,11 @@ Travail présenté par :
 - Antoine Daigneault-Demers
 - Jérémie Huppé
 
+## Structure du repo
+- Notre notebook principal est disponible directement (Luong_Attention_Code_Source.ipynb)
+- Le dossier Trace_de_exécutions contient les notebooks avec les sorties de l'exécution des 3 modèles
+- Le dossier Données_tableaux contient les fichiers csv et le script utilisés pour générer nos graphiques. 
+
 ## Détails d'implémentation
 
 ### Encodeur 
